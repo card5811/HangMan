@@ -1,0 +1,5 @@
+C:\Users\craig\source\repos\HangMan\HangMan_Repository\bin\Debug\HangMan_Repository.dll
+C:\Users\craig\source\repos\HangMan\HangMan_Repository\bin\Debug\HangMan_Repository.pdb
+C:\Users\craig\source\repos\HangMan\HangMan_Repository\obj\Debug\HangMan_Repository.csprojAssemblyReference.cache
+C:\Users\craig\source\repos\HangMan\HangMan_Repository\obj\Debug\HangMan_Repository.dll
+C:\Users\craig\source\repos\HangMan\HangMan_Repository\obj\Debug\HangMan_Repository.pdb

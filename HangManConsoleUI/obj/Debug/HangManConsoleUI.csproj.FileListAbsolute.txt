@@ -1,0 +1,9 @@
+C:\Users\craig\source\repos\HangMan\HangManConsoleUI\obj\Debug\HangManConsoleUI.csprojAssemblyReference.cache
+C:\Users\craig\source\repos\HangMan\HangManConsoleUI\bin\Debug\HangManConsoleUI.exe.config
+C:\Users\craig\source\repos\HangMan\HangManConsoleUI\bin\Debug\HangManConsoleUI.exe
+C:\Users\craig\source\repos\HangMan\HangManConsoleUI\bin\Debug\HangManConsoleUI.pdb
+C:\Users\craig\source\repos\HangMan\HangManConsoleUI\bin\Debug\HangMan_Repository.dll
+C:\Users\craig\source\repos\HangMan\HangManConsoleUI\bin\Debug\HangMan_Repository.pdb
+C:\Users\craig\source\repos\HangMan\HangManConsoleUI\obj\Debug\HangManConsoleUI.csproj.CopyComplete
+C:\Users\craig\source\repos\HangMan\HangManConsoleUI\obj\Debug\HangManConsoleUI.exe
+C:\Users\craig\source\repos\HangMan\HangManConsoleUI\obj\Debug\HangManConsoleUI.pdb

@@ -1,0 +1,13 @@
+C:\Users\craig\source\repos\HangMan\HangMan\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\craig\source\repos\HangMan\HangMan\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\craig\source\repos\HangMan\HangMan\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\craig\source\repos\HangMan\HangMan\bin\Debug\HangMan.dll
+C:\Users\craig\source\repos\HangMan\HangMan\bin\Debug\HangMan.pdb
+C:\Users\craig\source\repos\HangMan\HangMan\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\craig\source\repos\HangMan\HangMan\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\craig\source\repos\HangMan\HangMan\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\craig\source\repos\HangMan\HangMan\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\craig\source\repos\HangMan\HangMan\obj\Debug\HangMan.csprojAssemblyReference.cache
+C:\Users\craig\source\repos\HangMan\HangMan\obj\Debug\HangMan.csproj.CopyComplete
+C:\Users\craig\source\repos\HangMan\HangMan\obj\Debug\HangMan.dll
+C:\Users\craig\source\repos\HangMan\HangMan\obj\Debug\HangMan.pdb
